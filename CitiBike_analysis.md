@@ -1,5 +1,7 @@
 # NYC CitiBike Analysis
 
+View this analysis on my Tableau [public profile](https://public.tableau.com/profile/brent.meulebroeck#!/vizhome/CitiBikeAnalysis_16141174853830/AlookatNYCridershipduringthe2020peakseasonFebruarythruOctober)
+
 ### Overview of rides during 2020 peak biking season (February through October)
 ![Rides by week](/screenshots/rides_by_week.PNG)
 I chose this time period to see how the COVID-19 restrictions impacted overall ridership, as well as looking at different segments of the ridership for insights.
